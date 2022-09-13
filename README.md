@@ -14,6 +14,11 @@ large number of nodes. I am adding a simple case study on the world bank remitta
 I run the model through the application and generate a report of the analysis as an example of what
 the algorithm can do.
 
+The web application is developed in Python Django framework for the backend and
+HTML, CSS, and JavaScript for the frontend. I have chosen Bootstrap and Bootswatch themes to
+develop a nice responsive user interface. Additionally, I used Highcharts JavaScript library to
+visualize the output data.
+
 For a brief demonstration of the algorithm and Django demo web app please watch the project presentation:
 
 
