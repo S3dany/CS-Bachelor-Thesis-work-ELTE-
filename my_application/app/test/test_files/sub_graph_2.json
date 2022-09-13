@@ -1,0 +1,1 @@
+{"directed": true, "multigraph": false, "graph": {}, "nodes": [{"id": "HU"}, {"id": "RO"}], "links": [{"capacity": 500.0, "source": "HU", "target": "RO"}, {"capacity": 400.66, "source": "RO", "target": "HU"}]}
